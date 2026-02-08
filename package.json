@@ -24,5 +24,8 @@
     "space": true,
     "semicolon": false,
     "padding-line-between-statements": false
+  },
+  "dependencies": {
+    "mathematica-keygen": "^12.0.0"
   }
 }
